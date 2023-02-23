@@ -1,2 +1,2 @@
 # TCP-Chat-Room
-A TCP-based chat room that is built using Python
+A simple TCP-based chat room that is built using Python that allows 2 or more parties to chat together
